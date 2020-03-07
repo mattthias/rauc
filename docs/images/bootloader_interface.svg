@@ -601,7 +601,7 @@
        <rect class="BoundingBox" stroke="none" fill="none" x="6778" y="10476" width="4803" height="2143"/>
        <path fill="rgb(255,204,0)" stroke="none" d="M 9179,12617 L 6779,12617 6779,10477 11579,10477 11579,12617 9179,12617 Z"/>
        <path fill="none" stroke="rgb(52,101,164)" d="M 9179,12617 L 6779,12617 6779,10477 11579,10477 11579,12617 9179,12617 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7401" y="11768"><tspan fill="rgb(0,0,0)" stroke="none">Enviornment</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7401" y="11768"><tspan fill="rgb(0,0,0)" stroke="none">Environment</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.CustomShape">
